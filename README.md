@@ -1,4 +1,4 @@
-# Simple-Web-Development-Project-
-ApexPlanet Software Pvt Ltd \n
+# Simple-Web-Development-Project- \n
+ApexPlanet Software Pvt Ltd 
 Internship Program Web Devlopment 
 HTML,CSS & JAVASCRIPT
