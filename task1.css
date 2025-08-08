@@ -1,0 +1,71 @@
+ * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body, html {
+      height: 100%;
+      font-family: Arial, sans-serif;
+    }
+
+    /* Background image covers full screen */
+    body {
+      background-image: url(971.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    /* Overlay content */
+    .container {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items:center;
+      text-align: center;
+      /* background-color: rgba(0, 0, 0, 0.5); Semi-transparent dark overlay */
+      color: rgb(0, 0, 0);
+      padding: 20px;
+    }
+
+    h1 {
+      color: rgb(255, 255, 255);
+      font-size: 36px;
+      margin-bottom: 50px;
+    }
+
+    p {
+      font-size: 18px;
+      margin-bottom: 20px;
+      max-width: 600px;
+      color:wheat;
+    }
+
+    a {
+      color: #00d9ff;
+      text-decoration: none;
+      margin-bottom: 20px;
+      display: inline-block;
+      /* margin-left: 130px; */
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: #1100ff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      /* margin-left: 170px; */
+    }
+
+    button:hover {
+      background-color: #219150;
+    }
